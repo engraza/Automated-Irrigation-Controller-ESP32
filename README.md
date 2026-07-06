@@ -113,16 +113,6 @@ Pump ON       Pump OFF
 
 ---
 
-## 📷 Simulation
-
-> Add your Wokwi circuit screenshot below.
-
-```
-assets/simulation.png
-```
-
----
-
 ## 📖 Learning Outcomes
 
 Through this project, I gained practical experience in:
